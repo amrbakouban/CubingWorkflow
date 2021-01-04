@@ -18,3 +18,11 @@ AO5: 12.32  (Janurary 3rd, 7:35pm)
 AO12: 14.13 (Janurary 3rd, 7:44pm)
 
 AO25: 10.12 (Janurary 3rd, 7:50pm)
+
+
+#### Sources:
+
+legoboyz3Cubes. “How to Solve the Pyraminx Duo [Beginner Method].” YouTube, YouTube, 19 May 2015, www.youtube.com/watch?v=xB9OFNyi-Uk. 
+“Online Rubik's Cube Timer.” Ruwix, ruwix.com/online-rubiks-stopwatch-timer/. 
+“Jaap's Puzzle Page.” Pyraminx Duo, www.jaapsch.net/puzzles/pyraduo.htm. 
+“WikiVisually.com.” WikiVisually, wikivisually.com/wiki/Pyraminx_Duo. 
